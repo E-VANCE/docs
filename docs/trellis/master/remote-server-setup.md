@@ -98,7 +98,7 @@ Ubuntu 16.04 (Xenial) and 18.04 (Bionic Beaver) are still supported as well so y
 
 2. You need to be able to connect to your server from your local computer via SSH. We *highly* suggest doing this via SSH keys so you don't have to specify a password every time. Many hosts like DigitalOcean offer to automatically add your SSH key when creating a server so take advantage of that. Or follow a guide such as [this one](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2).
 
-Now that you have a working Ubuntu 18.04 server that you can easily SSH into, you need to configure a few things:
+Now that you have a working Ubuntu 20.04 server that you can easily SSH into, you need to configure a few things:
 
 This leaves you with a *provisioned* server. The next step is to [deploy](deployments.md) your site.
 
